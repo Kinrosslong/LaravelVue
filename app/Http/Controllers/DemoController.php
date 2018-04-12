@@ -42,5 +42,6 @@ class DemoController extends Controller
     public function fenzhi()
     {
         echo "学习分支";
+        echo "第一次提交";
     }
 }
