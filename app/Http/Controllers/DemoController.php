@@ -43,5 +43,6 @@ class DemoController extends Controller
     {
         echo "学习分支";
         echo "第一次提交";
+        echo "第二次提交";
     }
 }
