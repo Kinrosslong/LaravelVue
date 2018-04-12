@@ -35,4 +35,12 @@ class DemoController extends Controller
         dd($users);
         return $users;
     }
+
+    /**
+     * 学习一下分支
+     */
+    public function fenzhi()
+    {
+        echo "学习分支";
+    }
 }
